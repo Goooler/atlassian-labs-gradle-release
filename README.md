@@ -1,4 +1,4 @@
-###Gradle Release Plugin
+# Gradle Release Plugin
 
 Gradle plugin that helps with SCM and release management for 
 [Performance Tools](https://bitbucket.org/account/user/atlassian/projects/PT) modules.
